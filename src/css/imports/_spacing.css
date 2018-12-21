@@ -916,3 +916,8 @@
   .mhn2-l { margin-left: -var(--spacing-small); margin-right: -var(--spacing-small); }
   .mhn3-l { margin-left: -var(--spacing-medium); margin-right: -var(--spacing-medium); }
 }
+
+.global-nav {
+    padding: 22px 0;
+    background-color: #3d3f46;
+}
