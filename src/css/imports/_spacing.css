@@ -936,3 +936,11 @@
     padding-top: .8rem;
 }
 
+.cont {
+      background-color: #d23026;
+    padding: 10px 25px;
+    margin-top: 10px;
+    margin-left: 23px;
+    color: #fff;
+    font-weight: bold;
+}
