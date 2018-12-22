@@ -938,7 +938,7 @@
 
 .cont a{
       background-color: #d23026;
-    padding: 10px 25px;
+    padding: 10px 28px !important;
     margin-top: 10px;
     margin-left: 23px;
     color: #fff;
