@@ -2,6 +2,16 @@
   background-color: var(--highlight);
 }
 
+footer .measure-narrow  {
+  text-align: center;
+    color: #fff;
+}
+
+footer .measure-narrow .btn {
+  background: #d23026;
+    color: #fff;
+}
+
 /* Used in the navbar */
 .divider-grey {
   box-shadow: inset 0 -4px 0 var(--grey-1);
