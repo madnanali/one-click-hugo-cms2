@@ -25,6 +25,11 @@ footer .measure-narrow .btn {
       box-shadow: none;
 }
 
+footer .lh-title {
+  color: #fff!important;
+
+}
+
 foot {
      background: #3d3f46;
     width: 100%;
