@@ -12,6 +12,19 @@ footer .measure-narrow .btn {
     color: #fff;
 }
 
+foot {
+     background: #3d3f46;
+    width: 100%;
+    display: block;
+    padding: 16px 0;
+    color: #fff;
+    font-size: 15px;
+}
+
+foot .pt3 {
+      padding: 0;
+}
+
 /* Used in the navbar */
 .divider-grey {
   box-shadow: inset 0 -4px 0 var(--grey-1);
