@@ -10,6 +10,7 @@ footer .measure-narrow  {
 footer .measure-narrow .btn {
   background: #d23026;
     color: #fff;
+      box-shadow: none;
 }
 
 foot {
