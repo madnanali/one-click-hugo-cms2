@@ -41,7 +41,7 @@ foot .pt3 {
 .black {
   background: #d23026;
     padding: 10px;
-    color: #fff;
+    color: #fff !important;
     margin-top: 15px;
 }
 
