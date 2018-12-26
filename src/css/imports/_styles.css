@@ -45,6 +45,11 @@ foot .pt3 {
     margin-top: 15px;
 }
 
+.lh-title {
+  color: #56575b!important;
+  font-size: 1.2rem !important;
+}
+
 /* Used in the navbar */
 .divider-grey {
   box-shadow: inset 0 -4px 0 var(--grey-1);
