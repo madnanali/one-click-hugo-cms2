@@ -16,7 +16,7 @@ foot {
      background: #3d3f46;
     width: 100%;
     display: block;
-    padding: 16px 0;
+    padding: 16px 0 !important;
     color: #fff;
     font-size: 15px;
 }
