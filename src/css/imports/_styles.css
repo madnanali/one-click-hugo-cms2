@@ -2,6 +2,18 @@
   background-color: var(--highlight);
 }
 
+body {
+    font-family: roboto,helvetica,helvetica neue,arial,sans-serif;
+    font-size: 18px;
+    /* font-size: 1rem; */
+    line-height: 1.5;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fffdfc;
+    color: #56575b;
+}
+
 footer .measure-narrow  {
   text-align: center;
     color: #fff;
