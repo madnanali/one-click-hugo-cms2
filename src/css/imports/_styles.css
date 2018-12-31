@@ -55,6 +55,17 @@ foot .pt3 {
   font-size: 1.2rem !important;
 }
 
+.single-post .w-70-ns img {
+      width: 100%;
+    height: 100% !important;
+}
+
+.single-post .w-70-ns {
+
+    display: block;
+    float: left;
+}
+
 /* Used in the navbar */
 .divider-grey {
   box-shadow: inset 0 -4px 0 var(--grey-1);
