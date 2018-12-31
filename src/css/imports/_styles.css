@@ -61,19 +61,26 @@ foot .pt3 {
 }
 
 .single-post .w-75-ns {
-
+margin-right: 21px;
     display: block;
     float: left;
 }
 
-.single-post .w-20-ns {
 
-display: block;
-    float: left;
-}
+
+
+
+
 
 footer {
   clear: both;
+}
+
+@media screen and (min-width: 40em)
+.single-post .w-20-ns {
+    width: 23%;
+  display: block;
+    float: left;
 }
 
 /* Used in the navbar */
