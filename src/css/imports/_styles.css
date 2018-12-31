@@ -55,20 +55,20 @@ foot .pt3 {
   font-size: 1.2rem !important;
 }
 
-.single-post .w-70-ns img {
+.single-post .w-75-ns img {
       width: 100%;
     height: 100% !important;
 }
 
-.single-post .w-70-ns {
+.single-post .w-75-ns {
 
     display: block;
     float: left;
 }
 
-.single-post .w-31-ns {
+.single-post .w-20-ns {
 
-
+display: block;
     float: left;
 }
 
