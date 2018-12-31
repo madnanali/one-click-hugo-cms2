@@ -66,6 +66,12 @@ foot .pt3 {
     float: left;
 }
 
+.single-post .w-31-ns {
+
+    display: block;
+    float: left;
+}
+
 /* Used in the navbar */
 .divider-grey {
   box-shadow: inset 0 -4px 0 var(--grey-1);
