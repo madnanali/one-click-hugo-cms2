@@ -81,6 +81,11 @@ footer {
   clear: both;
 }
 
+.single-post .cms p {
+
+    max-width: 40rem;
+}
+
 @media screen and (min-width: 40em) {
 .single-post .w-20-ns {
     width: 23%;
