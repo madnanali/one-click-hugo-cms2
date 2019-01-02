@@ -102,6 +102,11 @@ margin-bottom: 15px;
     margin-right: 15px;
 }
 
+.single-post .ph1-ns {
+margin-bottom: 15px;
+    margin-right: 0px;
+}
+
 .bg-grey-2 {
     background-color: #ebebeb;
 }
