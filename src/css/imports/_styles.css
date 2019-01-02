@@ -97,6 +97,15 @@ footer {
     line-height: 23px;
 }
 
+.ph1-ns {
+
+    margin-right: 15px;
+}
+
+.bg-grey-2 {
+    background-color: #ebebeb;
+}
+
 @media screen and (min-width: 40em) {
 .single-post .w-20-ns {
     width: 23%;
