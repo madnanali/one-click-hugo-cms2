@@ -61,7 +61,7 @@ foot .pt3 {
 }
 
 .single-post .w-75-ns {
-margin-right: 21px;
+margin-right: 21px !important;
     display: block;
     float: left;
 }
