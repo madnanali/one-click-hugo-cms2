@@ -86,6 +86,17 @@ footer {
     max-width: 40rem;
 }
 
+.date {
+  font-size: 16px;
+    font-weight: bold;
+    margin-top: 11px;
+}
+
+.mb0 {
+
+    line-height: 23px;
+}
+
 @media screen and (min-width: 40em) {
 .single-post .w-20-ns {
     width: 23%;
